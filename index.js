@@ -16,7 +16,7 @@ banco.conexao.sync( function(){
     console.log("Banco de dados conectado.");
 })
 
-const PORTA = 303npm
+const PORTA = 3032
 app.listen( PORTA, function(){
     console.log("Servidor iniciados na porta "+PORTA);
 })
